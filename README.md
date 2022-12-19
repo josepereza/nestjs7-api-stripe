@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
   
 ## Tutorial
-* https://kingyinma.medium.com/implement-an-stripe-payment-flow-using-nestjs-mongodb-114d8f0b69https://kingyinma.medium.com/implement-an-stripe-payment-flow-using-nestjs-mongodb-114d8f0b69
+* https://kingyinma.medium.com/implement-an-stripe-payment-flow-using-nestjs-mongodb-114d8f0b69
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
